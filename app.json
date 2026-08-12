@@ -4,7 +4,8 @@
     "slug": "react-native-labs",
     "scheme": "your-app-scheme",
     "experiments": {
-      "typedRoutes": true
+      "typedRoutes": true,
+      "tsconfigPaths": true
     },
     "version": "1.0.0",
     "orientation": "portrait",
